@@ -1,0 +1,11 @@
+      Virus          Year   Positivity
+Adenovirus           2022        8.2%
+Influenza A          2022       10.4%
+Influenza B          2023        3.6%
+Parainfluenza 1      2022        2.5%
+Parainfluenza 2      2023        1.6%
+Parainfluenza 3      2021        5.3%
+Parainfluenza 4      2021        1.9%
+Rhinovirus           2023       32.4%
+RSV                  2021       14.8%
+SARS-CoV-2           2020       11.7%
